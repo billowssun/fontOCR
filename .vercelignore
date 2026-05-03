@@ -1,0 +1,7 @@
+log/
+ssl/
+*.log
+*.pem
+.git/
+.env
+.env.*

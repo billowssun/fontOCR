@@ -1,0 +1,10 @@
+log/
+ssl/
+*.log
+*.pem
+.env
+.env.*
+.vercel/
+node_modules/
+
+.vercel
