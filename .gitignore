@@ -5,6 +5,8 @@ ssl/
 .env
 .env.*
 .vercel/
+.git.broken*/
+.git.denied-dir*/
 node_modules/
 
 .vercel
